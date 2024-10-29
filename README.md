@@ -1,2 +1,2 @@
 # hello-word
-aulinha de repositório
+aulinha de repositório no curso do CILab
